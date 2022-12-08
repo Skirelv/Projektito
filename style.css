@@ -1,0 +1,96 @@
+body {
+    background-image: url('https://images.hdqwalls.com/download/windows-xp-bliss-4k-lu-2560x1440.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  font-family: 'PT Mono';
+}
+h1 {
+    text-align:center;
+
+  
+}
+.bar {
+    box-sizing: border-box;
+  
+  
+
+  
+      margin:auto;
+      background: rgb(60, 131, 172);
+      border: 1px solid #000000;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      text-align: center;
+  }
+  .ievadbox{
+    background-color: rgba(53, 123, 163, 0.8);
+    border-radius: 20px;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    margin: left;
+    margin-left: 13%;
+    margin-top: 490px;
+    line-height: 200px;
+    border: 1px solid #000000;
+    font-size: 100px;
+    color: rgb(41, 38, 190);
+
+
+
+  }
+  .skolabox{
+    text-align: right;
+    margin-top: -50px;
+    margin-right: 40px;
+ 
+  }
+  .tabulbox{
+    text-align: right;
+    margin-top: -18px;
+    margin-right: 200px;
+  }
+
+  .web{
+      color: white;
+      margin-top: 500px;
+      margin-left: 10px;
+      font-size: 20px;
+      position: absolute;
+      margin: right;
+  }
+  .vard{
+    color: white;
+    margin-left: 10px;
+    position: absolute;
+    margin-top: 540px;
+    margin: right;
+
+  }
+  .rand{
+    color: cyan;
+    margin-left: 90%;
+    font-size: 20px;
+
+    position: absolute;
+      margin-top: 540px;
+      margin: right;
+
+  }
+  .y8{
+    color: cyan;
+    margin-left: 85%;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 540px;
+    margin: right;
+  }
+  .mat{
+    color: cyan;
+    margin-left: 73%;
+    font-size: 20px;
+    width: 250px;
+    margin: right;
+    position: absolute;
+    margin-top: 540px;
+  }
